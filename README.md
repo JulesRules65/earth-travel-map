@@ -28,7 +28,7 @@ The images used in this project are sourced from NASA and ESA and may require at
 - Earth Clouds map: https://visibleearth.nasa.gov/images/57747/blue-marble-clouds/57749l
 - Earth Night Lights map: https://visibleearth.nasa.gov/images/55167/earths-city-lights/55169l
 - Earth Ocean map: https://svs.gsfc.nasa.gov/3487
-- Space environment map(the version I used have been slightly color tuned): https://sci.esa.int/web/gaia/-/the-colour-of-the-sky-from-gaia-s-early-data-release-3-equirectangular-projection
+- Space environment map: https://sci.esa.int/web/gaia/-/the-colour-of-the-sky-from-gaia-s-early-data-release-3-equirectangular-projection
 
 ### How to run locally
 
